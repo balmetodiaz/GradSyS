@@ -1,0 +1,2 @@
+rootProject.name = 'percuma'
+include 'percuma-app'
